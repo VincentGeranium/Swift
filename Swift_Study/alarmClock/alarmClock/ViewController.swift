@@ -47,6 +47,9 @@ class ViewController: UIViewController {
     }
     
     @objc func updateTime() {
+        //lblCurrentTime.text = String(count)
+        //count = count+1
+        
         let date = NSDate()
         
         let formatter = DateFormatter()
