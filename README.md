@@ -14,3 +14,4 @@ Contents about This Repo
 - [190417 - dismiss 와 present를 활용한 화면 전환 (by Storyboard and Code)](https://github.com/VincentGeranium/Swift-Example/tree/master/Scene-Trans01-BackButton)
 - [190417 - NavigationController를 활용한 화면 전환 (by Storyboard and Code), 화면 전환 방식의 차이에 따른 이전 화면으로 돌아가기 위한 각각의 메소드 활용 방식](https://github.com/VincentGeranium/Swift-Example/tree/master/Scene-Trans-NavigationController01)
 - [190417 - Action Segue 두가지 방식의 Action Segue(네비게이션 컨트롤러와 함께 사용한 Segue, 버튼을 이용한 Segue)](https://github.com/VincentGeranium/Swift-Example/tree/master/Scene-ActionSegue)
+- [190417 - Manual Segue 구현](https://github.com/VincentGeranium/Swift-Example)
