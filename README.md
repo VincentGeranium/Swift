@@ -20,3 +20,4 @@ Contents about This Repo
 - [190418 - 커스텀 세그웨이를 만들고 전처리 메소드를 활용하여 화면 전환](https://github.com/VincentGeranium/Swift-Example/tree/master/Scene-CustomSegue)
 - [190419 - 기본 계산기 구현](https://github.com/VincentGeranium/Swift-Example/tree/master/SimpleCalculator)
 - [190419 - 다른 뷰 컨드롤러와 데이터 주고받기 (present를 활용)](https://github.com/VincentGeranium/Swift-Example/tree/master/SubmitValue)
+- [190420 - 서로 다른 두개의 뷰 컨트롤러에서 데이터 주고받기(byCode)](https://github.com/VincentGeranium/Swift-Example/tree/master/190420-SubmitValue-byCode)
