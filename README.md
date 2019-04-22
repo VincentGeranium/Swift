@@ -22,3 +22,4 @@ Contents about This Repo
 - [190419 - 다른 뷰 컨드롤러와 데이터 주고받기 (present를 활용)](https://github.com/VincentGeranium/Swift-Example/tree/master/SubmitValue)
 - [190420 - 서로 다른 두개의 뷰 컨트롤러에서 데이터 주고받기(byCode)](https://github.com/VincentGeranium/Swift-Example/tree/master/190420-SubmitValue-byCode)
 - [190421 - 네비게이션 컨트롤과 세그웨이를 이용한 데이터 전송과 화면 전환](https://github.com/VincentGeranium/Swift-Example/tree/master/SubmitValue-2)
+- [190422 - 세그웨이를 이용한 직접 값을 주고 받기 구현 (값을 거꾸로 주고 받는 형식)](https://github.com/VincentGeranium/Swift-Example/tree/master/SubmitValue-Back)
